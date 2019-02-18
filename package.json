@@ -1,0 +1,33 @@
+{
+    "name": "tiendareact",
+    "version": "1.0.0",
+    "description": "Tienda React",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kleberdiazc/TiendaReact.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kleberdiazc/TiendaReact/issues"
+    },
+    "homepage": "https://github.com/kleberdiazc/TiendaReact#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "core-js": "^2.5.4",
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "httpclient": "^0.1.0",
+        "mongodb": "^3.1.13",
+        "mongoose": "^5.4.12",
+        "mongoose-unique-validator": "^2.0.2",
+        "nodemon": "^1.18.10",
+        "rxjs": "^6.3.3",
+        "underscore": "^1.9.1",
+        "zone.js": "~0.8.26"
+    }
+}
